@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715286277 source:/home/teste007/Documents/GitHub/C_Com_Classe/Gerador_randomico/main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<ctime>
+
