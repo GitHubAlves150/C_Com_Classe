@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1715138708 source:/home/dev-hw/Documents/GitHub/C-Com-Classe/Gerador de numeros randomicos /main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<ctime>
+
+1715249682 source:/home/teste007/Documents/GitHub/C-Com-Classe/Gerador de numeros randomicos /main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<ctime>
+

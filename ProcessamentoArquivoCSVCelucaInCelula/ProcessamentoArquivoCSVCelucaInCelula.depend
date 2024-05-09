@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1712891294 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProcessamentoArquivoCSVCelucaInCelula/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<ostream>
+	<fstream>
+
+1712849668 source:c:\users\lucas\documents\github\c-com-classe\processamentoarquivocsvcelucaincelula\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<ostream>
+	<fstream>
+
+1712869571 source:c:\users\lucas.alves\documents\github\c-com-classe\processamentoarquivocsvcelucaincelula\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<ostream>
+	<fstream>
+

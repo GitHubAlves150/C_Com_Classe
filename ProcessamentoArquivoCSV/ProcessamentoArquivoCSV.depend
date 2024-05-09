@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712352171 source:c:\users\lucas\documents\github\processamentoarquivocsv\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<time.h>
+	<fstream>
+
+1712716003 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProcessamentoArquivoCSV/main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<time.h>
+	<fstream>
+

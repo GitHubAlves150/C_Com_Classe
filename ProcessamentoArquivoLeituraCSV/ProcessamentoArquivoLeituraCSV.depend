@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712608066 source:c:\users\lucas.alves\documents\github\c-com-classe\processamentoarquivoleituracsv\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ostream>
+	<fstream>
+
+1712626625 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProcessamentoArquivoLeituraCSV/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ostream>
+	<fstream>
+

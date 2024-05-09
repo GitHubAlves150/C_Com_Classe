@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713124437 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/Strings/main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

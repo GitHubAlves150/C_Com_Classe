@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714531572 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/Teste_Varaiveis_de_ambiente/main.cpp
+	<cstdlib>
+	<iostream>
+

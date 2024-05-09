@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de login</title>
+    <style>
+        body        
+        {
+
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-image: linear-gradient(80deg, rgb(171, 171, 169), rgb(171, 171, 169) );
+
+        }
+        .tela-login
+        {
+            background-color: rgba(126, 125, 125, 0.9);
+            position: absolute;
+            top: 45%;
+            left: 45%;
+           //transform: translate(-50%, 50%);
+            padding: 80px;
+            border-radius: 15px;
+            color: #fff;
+
+        }
+        .login        
+        {
+            padding: 15px;
+            border: none;
+            outline: none;
+            font-size: 20px;
+            
+        }
+        .PassWord        
+        {
+            padding: 15px;
+            border: none;
+            font-size: 20px;
+        }
+        
+        button
+        {
+            background-color: rgb(159, 161, 161);
+            border: none;
+            padding: 15px;
+            border-radius: none;           
+            width: 100%;
+
+        }
+        button:hover
+        {
+            background-color: rgb(249, 247, 245);
+
+        }
+        h1
+        {
+            font-size: 20px;
+            padding-left: 110px;
+        }
+    </style>
+
+    <script>
+        function logar()
+        {
+            var login = document.getElementById('login').value;
+            var PassWord = document.getElementById('PassWord').value;
+
+            if(login == "admin" && senha == "admin")
+            {
+                alert("Sucesso");
+            }
+            else
+            {
+
+                alert("user not..");
+            }
+            
+        }
+
+    </script>
+</head>
+
+<body>
+    <div class="tela-login">
+        <form method="post" action="/cgi-bin/ProjetoCGI_v0.3.cgi">
+        
+        <h1>LOGIN</h1>
+        <input class="login"  type="text" placeholder="User Admin" id="login" name="usuario">
+        <br><br>
+        <input class="PassWord"  type="text" placeholder="PassWord" id="PassWord" name="senha">
+        <br><br>
+        <input type="submit" name="button" value="Entrar" />
+
+        </form>
+    </div>
+
+
+    <script>
+
+        function logar()
+        {
+
+            var login = document.getElementById('login').value;
+            var PassWord =document.getElementById('PassWord').value;
+            if(login == "admin" && PassWord=="admin")
+            {
+                alert("Ok");
+            }
+            else
+            {
+                alert("nok");
+            }
+
+        }
+    </script>
+</body>
+
+</html>

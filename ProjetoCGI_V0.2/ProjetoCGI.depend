@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1714474023 source:/home/teste007/Documents/GitHub/C-Com-Classe/ProjetoCGI/main.cpp
+	<iostream>
+
+1714474627 source:/home/teste007/Documents/GitHub/C-Com-Classe/ProjetoCGI/WEB.cpp
+	<iostream>
+	"WEB.hpp"
+
+1714474626 /home/teste007/Documents/GitHub/C-Com-Classe/ProjetoCGI/WEB.hpp
+	<iostream>
+	<string>
+
+1714521421 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProjetoCGI/main.cpp
+	<iostream>
+	<string>
+	"WEB.hpp"
+
+1714521482 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProjetoCGI/WEB.cpp
+	<iostream>
+	<string>
+	"WEB.hpp"
+
+1714520808 /home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProjetoCGI/WEB.hpp
+	<iostream>
+	<string>
+
+1714619066 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProjetoCGI_V0.1/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"WEB.hpp"
+
+1714618274 /home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProjetoCGI_V0.1/WEB.hpp
+	<iostream>
+	<string>
+
+1714621215 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProjetoCGI_V0.1/WEB.cpp
+	<iostream>
+	<string>
+	"WEB.hpp"
+
+1714621215 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProjetoCGI_V0.2/WEB.cpp
+	<iostream>
+	<string>
+	"WEB.hpp"
+
+1714618274 /home/desenvolvimento/Documents/GitHub/C-Com-Classe/ProjetoCGI_V0.2/WEB.hpp
+	<iostream>
+	<string>
+
+1714731618 source:/home/teste007/Documents/GitHub/C-Com-Classe/ProjetoCGI_V0.2/WEB.cpp
+	<iostream>
+	<string>
+	"WEB.hpp"
+
+1714731618 /home/teste007/Documents/GitHub/C-Com-Classe/ProjetoCGI_V0.2/WEB.hpp
+	<iostream>
+	<string>
+

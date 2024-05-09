@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714606214 source:/home/desenvolvimento/Documents/GitHub/C-Com-Classe/TestCGI/main.cpp
+	<iostream>
+	<cstdlib>
+

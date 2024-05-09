@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712074288 source:c:\users\lucas\documents\github\cartaoponto\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+

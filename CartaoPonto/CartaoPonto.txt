@@ -1,0 +1,9 @@
+Func            Entrada   Saida    Entrada   Saida      Data          Cargo
+Lucas Alves     08:00     12:00    13:30     18:00      12/01/2023    Operador de betorneira
+Henrique        08:00     12:00    13:30     18:00      12/01/2023    Servente de RH
+Jertrudes       08:00     12:00    13:30     18:00      12/01/2023    Tecnica em residuos humanos
+Aparecida Lost  08:00     12:00    13:30     18:00      12/01/2023    Facilitador de acesso 
+Camargo Luciano 08:00     12:00    13:30     18:00      12/01/2023    Jovem aprendiz
+Amanda Amantes  08:00     12:00    13:30     18:00      12/01/2023    Jovem aprendiz
+Alguem nobory   08:00     12:00    13:30     18:00      12/01/2023    Jovem aprendiz
+Mirian Gunsk    08:00     12:00    13:30     18:00      12/01/2023    Jovem aprendiz

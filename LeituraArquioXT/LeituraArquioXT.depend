@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712071682 source:c:\users\lucas\documents\github\leituraarquioxt\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+

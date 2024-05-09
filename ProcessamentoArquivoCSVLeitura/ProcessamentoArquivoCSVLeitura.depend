@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712593036 source:c:\users\lucas\documents\github\processamentoarquivocsvleitura\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
