@@ -8,7 +8,7 @@ int main()
 {
     cout << "Hello REAA!" << endl;
 
-    MergeSort sortVector( 10 );
+    MergeSort sortVector( 4 );
 
     cout << "Unsorted vector:" << endl;
     sortVector.displayElements();   //imprime o vetor não classificado
