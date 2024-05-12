@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1715540528 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Gera_um_vetor_randomico/main.cpp
+	<iostream>
+	"randon.hpp"
+
+1715540519 /home/desenvolvimento/Documents/GitHub/C_Com_Classe/Gera_um_vetor_randomico/randon.hpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1715540553 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Gera_um_vetor_randomico/randon.cpp
+	"randon.hpp"
+
