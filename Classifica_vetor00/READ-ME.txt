@@ -1,0 +1,3 @@
+Neste programa após criar um gerador de numeros randomicos.
+Criei uma função membro de dados que divide o vetor em duas partes.
+Direita e esquerda.

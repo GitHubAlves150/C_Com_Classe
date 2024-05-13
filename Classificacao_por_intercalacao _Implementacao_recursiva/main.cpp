@@ -1,9 +1,6 @@
 #include <iostream>
-
-using namespace std;
-
 #include "MergeSort.hpp"
-
+using namespace std;
 int main()
 {
     cout << "Hello REAA!" << endl;

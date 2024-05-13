@@ -17,7 +17,7 @@ void VectorRandon::generateNumbersInvector()
     srand(time(0));
     for(int i=0; i<_TAM; i++)
     {
-        date.push_back(10+rand()%20);
+        date.push_back(1+rand()%200);
     }
 //divide o vetor
 
@@ -40,18 +40,22 @@ void VectorRandon::generateNumbersInvector()
 void VectorRandon::DisplayElementes()
 {
     generateNumbersInvector();
+    cout << "Vetor original.......\n";
     for(int i=0; i<_TAM; i++)
     {
         cout << date[i] << ":";
 
     }
-    cout << endl;
+
+    cout << endl << endl;
+    cout << "Vetor da esquerda.......\n";
     for(int i=0; i<(_TAM/2); i++)
     {
         cout << vectorRigth[i] << ":";
 
     }
-    cout << endl;
+    cout << endl << endl;
+    cout << "Vetor da direita.......\n";
     for(int i=0; i<(_TAM/2); i++)
     {
         cout << vectorLeft[i] << "-";

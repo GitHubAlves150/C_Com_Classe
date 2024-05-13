@@ -8,7 +8,7 @@ int main()
 {
     cout << "Hello REAA!" << endl;
 
-    VectorRandon vetorDados(10);
+    VectorRandon vetorDados(30);
 
    vetorDados.DisplayElementes();
 

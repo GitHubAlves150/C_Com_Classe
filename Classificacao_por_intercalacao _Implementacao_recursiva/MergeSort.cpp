@@ -14,7 +14,7 @@ using std::srand;
 using std::time;
 
 #include "MergeSort.hpp"
-
+using namespace::std;
 
 MergeSort::MergeSort( int vectorSize )                       //Construtor inicializa vetor
 {

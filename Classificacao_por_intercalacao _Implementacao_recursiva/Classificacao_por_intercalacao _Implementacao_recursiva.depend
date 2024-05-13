@@ -13,3 +13,17 @@
 1715396057 /home/dev-hw/Documents/GitHub/C_Com_Classe/Classificacao_por_intercalacao _Implementacao_recursiva/MergeSort.hpp
 	<vector>
 
+1715593960 source:c:\users\lucas.alves\documents\github\c_com_classe\classificacao_por_intercalacao _implementacao_recursiva\main.cpp
+	<iostream>
+	"MergeSort.hpp"
+
+1715593960 c:\users\lucas.alves\documents\github\c_com_classe\classificacao_por_intercalacao _implementacao_recursiva\mergesort.hpp
+	<vector>
+
+1715593960 source:c:\users\lucas.alves\documents\github\c_com_classe\classificacao_por_intercalacao _implementacao_recursiva\mergesort.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"MergeSort.hpp"
+

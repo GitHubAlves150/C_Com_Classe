@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1715541525 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classifica_vetor/main.cpp
+	<iostream>
+	"MergeSortByLucas.hpp"
+
+1715541466 /home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classifica_vetor/MergeSortByLucas.hpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1715541525 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classifica_vetor/MergeSortByLucas.cpp
+	"MergeSortByLucas.hpp"
+
+1715611918 source:c:\users\lucas.alves\documents\github\c_com_classe\classifica_vetor\main.cpp
+	<iostream>
+	"MergeSortByLucas.hpp"
+
+1715596677 c:\users\lucas.alves\documents\github\c_com_classe\classifica_vetor\mergesortbylucas.hpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1715611705 source:c:\users\lucas.alves\documents\github\c_com_classe\classifica_vetor\mergesortbylucas.cpp
+	"MergeSortByLucas.hpp"
+
