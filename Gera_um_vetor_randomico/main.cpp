@@ -4,7 +4,6 @@ using std::endl;
 
 #include "randon.hpp"
 
-
 int main()
 {
     cout << "Hello REAA!" << endl;

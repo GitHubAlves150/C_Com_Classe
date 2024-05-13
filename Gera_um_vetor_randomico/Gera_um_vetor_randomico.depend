@@ -12,3 +12,16 @@
 1715540553 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Gera_um_vetor_randomico/randon.cpp
 	"randon.hpp"
 
+1715594200 source:c:\users\lucas.alves\documents\github\c_com_classe\gera_um_vetor_randomico\main.cpp
+	<iostream>
+	"randon.hpp"
+
+1715594187 c:\users\lucas.alves\documents\github\c_com_classe\gera_um_vetor_randomico\randon.hpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1715593960 source:c:\users\lucas.alves\documents\github\c_com_classe\gera_um_vetor_randomico\randon.cpp
+	"randon.hpp"
+

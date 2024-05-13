@@ -15,15 +15,21 @@ using std::rand;
 #include <ctime>
 using std::time;
 
+using namespace::std;
+
 class VectorRandon
 {
 public:
-    VectorRandon();//cnt com 10 elementos default
+    VectorRandon(int=0);//cnt com 10 elementos default
 
     void generateNumbersInvector();
-    void displayElementes();
+    void DisplayElementes();
 private:
     vector<int>date;
+    vector<int>vectorRigth;
+    vector<int>vectorLeft;
+    int _TAM;
+
 
 };
 

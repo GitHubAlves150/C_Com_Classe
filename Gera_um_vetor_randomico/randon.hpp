@@ -13,6 +13,7 @@ using std::rand;
 
 #include <ctime>
 using std::time;
+using namespace::std;
 
 class VectorRandon
 {
