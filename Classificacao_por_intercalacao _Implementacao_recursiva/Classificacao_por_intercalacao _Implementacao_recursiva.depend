@@ -27,3 +27,17 @@
 	<ctime>
 	"MergeSort.hpp"
 
+1717725412 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classificacao_por_intercalacao _Implementacao_recursiva/main.cpp
+	<iostream>
+	"MergeSort.hpp"
+
+1717725412 /home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classificacao_por_intercalacao _Implementacao_recursiva/MergeSort.hpp
+	<vector>
+
+1717725412 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classificacao_por_intercalacao _Implementacao_recursiva/MergeSort.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"MergeSort.hpp"
+
