@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1722309068 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Sort/main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+

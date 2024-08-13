@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1665079037 source:d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 11 pesquisa, classificação e estrutura de dados\c++m11a1__algoritmos_de_pesquisa\c++m11a1__wr__files\pesquisabin\main.cpp
+	<iostream>
+	"PesquisaBinaria.hpp"
+
+1665192737 inaria.hpp"
+
+1665077645 d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 11 pesquisa, classificação e estrutura de dados\c++m11a1__algoritmos_de_pesquisa\c++m11a1__wr__files\pesquisabin\pesquisabinaria.hpp
+	<vector>
+
+1665077645 
+
+1665192737 source:d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 11 pesquisa, classificação e estrutura de dados\c++m11a1__algoritmos_de_pesquisa\c++m11a1__wr__files\pesquisabin\pesquisabinaria.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"PesquisaBinaria.hpp"
+
+1665079038 source:/home/desenvolvimento/Downloads/C++M11A1__WR__files/pesquisaBin/main.cpp
+	<iostream>
+	"PesquisaBinaria.hpp"
+
+1665077646 /home/desenvolvimento/Downloads/C++M11A1__WR__files/pesquisaBin/PesquisaBinaria.hpp
+	<vector>
+
+1665192790 source:/home/desenvolvimento/Downloads/C++M11A1__WR__files/pesquisaBin/PesquisaBinaria.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"PesquisaBinaria.hpp"
+
+1665079038 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/pesquisaBin/main.cpp
+	<iostream>
+	"PesquisaBinaria.hpp"
+
+1723018828 /home/desenvolvimento/Documents/GitHub/C_Com_Classe/pesquisaBin/PesquisaBinaria.hpp
+	<vector>
+
+1665192790 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/pesquisaBin/PesquisaBinaria.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"PesquisaBinaria.hpp"
+

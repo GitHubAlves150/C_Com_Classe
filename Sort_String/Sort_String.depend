@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1722303551 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Sort_String/main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+	<cstring>
+

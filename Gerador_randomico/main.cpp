@@ -34,7 +34,7 @@ int16_t again=0;
         for(int i=0; i<5; i++)
         {
 
-            cout << rand()%200 << endl;
+            cout << rand()%20 << endl;
         }
 
      cin >> again;

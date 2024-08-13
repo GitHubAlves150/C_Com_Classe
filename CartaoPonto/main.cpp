@@ -33,13 +33,13 @@ int main()
     //O uso do getline, ignora tabulaçoes de espeços tanto em << e >>
     while( !Arquivo.eof() )
     {
-        /*  Arquivo >>  Str_1 >>
+          Arquivo >>  Str_1 >>
                      Str_2 >>
                      Str_3 >>
                      Str_4 >>
                      Str_5 >>
                      Str_6 >>
-                     Str_7;*/
+                     Str_7;
 
 
      cout << Str_1 << "            " <<
