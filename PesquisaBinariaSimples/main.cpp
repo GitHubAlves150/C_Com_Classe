@@ -2,20 +2,14 @@
 //inclusao de libs basicas
 #include <iostream>
 using namespace std;
-
 #include <vector>
 using std::vector;
-
 #include <ctime>
 using std::time;
-
-
 #include <cstdlib>
 using std::srand;
-
 #include <iomanip>
 using std::setw;
-
 #include <algorithm>
 using std::sort;
 //==========================================
@@ -52,7 +46,7 @@ int main()
 
     cout << "\n\nO tamnho do vetror eh " << metadeFim<< endl;
 
-    while( (metadeIni<=metadeFim) && (indice==-1))
+    while( (metadeIni<=metadeFim+1) && (indice==-1))
     {
         if(chave == vetordados[centro])
         {
