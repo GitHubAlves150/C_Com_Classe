@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727027033 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Teste/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

@@ -51,3 +51,16 @@
 1715643775 source:c:\users\lucas.alves\documents\github\c_com_classe\classifica_vetor02\mergesortbylucas.cpp
 	"MergeSortByLucas.hpp"
 
+1717725412 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classifica_vetor02/main.cpp
+	<iostream>
+	"MergeSortByLucas.hpp"
+
+1717725412 /home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classifica_vetor02/MergeSortByLucas.hpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1717725412 source:/home/desenvolvimento/Documents/GitHub/C_Com_Classe/Classifica_vetor02/MergeSortByLucas.cpp
+	"MergeSortByLucas.hpp"
+
