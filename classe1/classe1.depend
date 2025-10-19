@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1760720323 source:/home/lucas-alves/MEGA/GitHub_senoratec/C_Com_Classe/classe1/main.cpp
+	<iostream>
+	"classe.hpp"
+
+1760719933 /home/lucas-alves/MEGA/GitHub_senoratec/C_Com_Classe/classe1/classe.hpp
+	<iostream>
+	<string>
+
+1760720340 source:/home/lucas-alves/MEGA/GitHub_senoratec/C_Com_Classe/classe1/classe.cpp
+	<iostream>
+	<string>
+	"classe.hpp"
+
