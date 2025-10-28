@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1761689882 source:/home/lucas-alves/MEGA/GitHub_senoratec/C_Com_Classe/Lista_ENcadeada/main.cpp
+	<iostream>
+	"list.hpp"
+
+1761682524 source:/home/lucas-alves/MEGA/GitHub_senoratec/C_Com_Classe/Lista_ENcadeada/list.cpp
+	"list.hpp"
+
+1761683946 /home/lucas-alves/MEGA/GitHub_senoratec/C_Com_Classe/Lista_ENcadeada/list.hpp
+
