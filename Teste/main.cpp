@@ -1,24 +1,23 @@
 #include <iostream>
-using namespace std;
 
-int main() {
-    unsigned short int estadoLEDs = 0b00000000; // Todos os LEDs desligados
+int main()
+{
 
-    // Ligar o LED na posição 2 (contando a partir de 0)
-    estadoLEDs |= (1 << 2); // Resultado: 0b00000100 (LED 2 ligado)
-cout<<estadoLEDs<<endl;
-    // Desligar o LED na posição 2
-    estadoLEDs &= ~(1 << 2); // Resultado: 0b00000000 (LED 2 desligado)
-cout<<estadoLEDs<<endl;
-    // Alternar o LED na posição 3
-    estadoLEDs ^= (1 << 3); // Resultado: 0b00001000 (LED 3 alternado)
-cout<<estadoLEDs<<endl;
-    // Verificar se o LED na posição 3 está ligado
-    if (estadoLEDs & (1 << 3)) {
-        cout << "LED 3 está LIGADO" << endl;
-    } else {
-        cout << "LED 3 está DESLIGADO" << endl;
-    }
+
+
+    char *menu[]= {"nome", "endereço", "rua"};
+    char *nomeCompleto= "Lucas Lorenço Alves";
+    std::cout<< ": " << menu[1]<< std::endl;
+    std::cout<< ": " << &nomeCompleto+1<< std::endl;
+    std::cout<< ": " << &nomeCompleto<< std::endl;
+    menu[1]="alves";
+    std::cout<< ": " << menu[1]<< std::endl;
+    std::cout<< ": " << menu[0]<< std::endl;
+    std::cout<< ": " << menu[2]<< std::endl;
+    nomeCompleto="nenhum de nos";
+    std::cout<< ": " << nomeCompleto<< std::endl;
 
     return 0;
 }
+
+
